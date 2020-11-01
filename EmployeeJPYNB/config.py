@@ -1,4 +1,4 @@
 # username = <Add PostgreSQL Username Here>
-username = "postgres"
+username = ""
 # password = <Add PostgreSQL Password Here>
-password = "rootroot"
+password = ""
